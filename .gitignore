@@ -1,0 +1,5 @@
+./a.out
+/obj/*.o
+/include/*.h
+/src/*.c
+Makefile
